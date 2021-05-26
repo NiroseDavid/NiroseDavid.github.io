@@ -15,6 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+Are these headers any different?
+
 - Bulleted
 - List
 
