@@ -4,7 +4,7 @@ Welcome to my page.
 Please find blow links to my some of my projects
 
 ## Project 1
-![Image](src)
+![Image](https://github.com/NiroseDavid/NiroseDavid.github.io/blob/main/E-Shoot-96.JPG)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
